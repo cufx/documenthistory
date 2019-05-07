@@ -1,0 +1,60 @@
+CUFX Version 3.1 Specifications
+Initial Publication January 24th, 2014
+
+Status :  Release for Comment 		
+Status Date: April 24th, 2017
+  
+For questions, comments or issues please respond to email: info@cufxstandards.com
+
+Please provide the following information:
+
+Responding Organization:   
+Contact Name:
+Contact Phone number:  	  
+Contact Email address:
+Response Date: 
+Responding Organization tracking reference (if applicable): 
+Name of Specification or XSD member:  
+Issue or Observation:
+Your expectation or recommendation to resolve:
+
+Release notes
+01/24/2014
+
+3.0 Specifications released for comment.
+
+02/20/2014
+
+CUFXBillpayModelandServicesVer3_0 specification - Added.
+
+05/09/2014
+
+Updated or added the following specifications:
+CUFXConfigurationDataModelandServicesVer3_0	- Update
+CUFXSecurityServicesVer3_0				- Update
+CUFXCardDataModelandServicesVer3_0		- Update
+CUFXTransfersandPaymentsServicesVer3_0		- Update
+CUFXBillpayModelandServicesVer3_0 		- Update
+CUFXHoldDataModelandServicesVer3_0		- Added
+
+05/30/2014
+
+Updated CUFXBillpayModelandServicesVer3_0 specification.
+
+08/01/2014
+
+Updated CUFXBillpayModelandServicesVer3_0 specification. 
+
+07/17/2015
+
+All Specifications updated to release 3.1 version.
+
+05/11/2016 
+
+All Specifications updated to release 3.2 version.
+
+04/24/2017 
+
+All Specifications updated to release 3.3 version.
+
+
